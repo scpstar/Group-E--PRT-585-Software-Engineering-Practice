@@ -1,1 +1,1 @@
-This is the folder for weekly exercises of Software Engineering Practice
+Here are the folders for weekly exercises of Software Engineering Practice
