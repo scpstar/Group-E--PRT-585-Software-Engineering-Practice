@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sonal/BlazorApp/BlazorApp.csproj": {}
+    "/Users/sonal/Desktop/BlazorApp/BlazorApp.csproj": {}
   },
   "projects": {
-    "/Users/sonal/BlazorApp/BlazorApp.csproj": {
+    "/Users/sonal/Desktop/BlazorApp/BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sonal/BlazorApp/BlazorApp.csproj",
+        "projectUniqueName": "/Users/sonal/Desktop/BlazorApp/BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "/Users/sonal/BlazorApp/BlazorApp.csproj",
+        "projectPath": "/Users/sonal/Desktop/BlazorApp/BlazorApp.csproj",
         "packagesPath": "/Users/sonal/.nuget/packages/",
-        "outputPath": "/Users/sonal/BlazorApp/obj/",
+        "outputPath": "/Users/sonal/Desktop/BlazorApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sonal/.nuget/NuGet/NuGet.Config"
