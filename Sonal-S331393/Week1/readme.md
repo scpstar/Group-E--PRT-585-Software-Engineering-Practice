@@ -33,3 +33,21 @@ Apple Safari*
 ## What are Razor components? ##
 - A Razor file defines components that make up a portion of the app UI. Components in Blazor are analogous to user controls in ASP.NET Web Forms
 - At compile time, each Razor component is built into a .NET class. The class includes common UI elements like state, rendering logic, lifecycle methods, and event handlers
+
+## What are Razor directives? ##
+- Razor directives are component markup used to add C# inline with HTML
+- With directives, developers can define single statements, methods, or larger code blocks
+
+### Code directives ###
+- You can use @expression() to add a C# statement inline with HTML. If you require more code, use the @code directive to add multiple statements enclosed by parentheses
+- You can also add an @functions section to the template for methods and properties. They're added to the top of the generated class, where the document can reference them
+
+### Page directives ###
+- The @Page directive is special markup that identifies a component as a page. Use this directive to specify a route
+- The route maps to an attribute route that the Blazor engine recognizes to register and access the page
+
+## Razor data binding ##
+- Data binding allows two-way synchronization between HTML and Microsoft .NET
+- Data is pushed from HTML to .NET when a component is rendered
+- Use @bind markup to bind a C# variable to an HTML object
+- You define the C# variable by name as a string in the HTML
