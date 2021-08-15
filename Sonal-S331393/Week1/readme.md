@@ -25,3 +25,11 @@ Apple Safari*
 ## Blazor development requirements
 - You can build Blazor apps by using the latest version of Visual Studio 2019, Visual Studio for Mac, or Visual Studio Code
 - Whatever your development environment, you need to install the .NET 5 SDK
+
+## What is Rasor? ##
+- Razor is a markup syntax that uses HTML and C# for writing UI components of Blazor web apps
+- Razor is based on ASP.NET and designed for creating web apps
+
+## What are Razor components? ##
+- A Razor file defines components that make up a portion of the app UI. Components in Blazor are analogous to user controls in ASP.NET Web Forms
+- At compile time, each Razor component is built into a .NET class. The class includes common UI elements like state, rendering logic, lifecycle methods, and event handlers
